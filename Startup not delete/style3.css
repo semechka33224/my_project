@@ -1,0 +1,26 @@
+.a{
+    text-align: center;
+    font-size: 50px 
+}
+.b{
+    text-align: center;
+    font-size: 50px 
+}
+
+input{
+    height: 50px;
+    width: 450px;
+    margin-top: 70px;
+    font-size: 32px;
+}
+
+.box{
+    margin-left: 39%;
+    margin-top: 150px;
+    width: 450px;
+    text-align: center;
+    height: 150px;
+    background-color: white;
+    font-size: 32px;
+    font-weight: 600;
+}
